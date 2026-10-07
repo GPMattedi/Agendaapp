@@ -55,9 +55,12 @@ This follows the principle of **spaced repetition**, where material is reviewed 
 - OpenAI Codex
 - ChatGPT
 
-## Project Structure
+## Download
 
-```text
+The latest Windows executable is available in the
+[Releases](../../releases) section.
+
+Download `Minha Agenda.exe` and run it directly.
 assets/
 packaging_hooks/
 src/
