@@ -1,0 +1,78 @@
+{
+  "modelos": [
+    {
+      "titulo": "Estudo",
+      "cor": "#0080ff"
+    },
+    {
+      "titulo": "Chess",
+      "cor": "#008040"
+    },
+    {
+      "titulo": "Comer",
+      "cor": "#ffff00"
+    },
+    {
+      "titulo": "Tomar banho",
+      "cor": "#00ffff"
+    },
+    {
+      "titulo": "Skc",
+      "cor": "#ff8040"
+    },
+    {
+      "titulo": "Exercício",
+      "cor": "#808080"
+    },
+    {
+      "titulo": "Dormir",
+      "cor": "#8000ff"
+    }
+  ],
+  "tarefas": [
+    {
+      "titulo": "Estudo",
+      "cor": "#0080ff",
+      "data": "2026-08-21",
+      "hora": "09:00"
+    }
+  ],
+  "objetivos": [
+    {
+      "texto": "80 kg",
+      "concluido": false
+    },
+    {
+      "texto": "CS50p",
+      "concluido": false
+    },
+    {
+      "texto": "Internship",
+      "concluido": false
+    },
+    {
+      "texto": "Mandarim",
+      "concluido": false
+    },
+    {
+      "texto": "CR 10.0",
+      "concluido": false
+    },
+    {
+      "texto": "Cohere",
+      "concluido": false
+    },
+    {
+      "texto": "Ocaml (Jane Street)",
+      "concluido": false
+    },
+    {
+      "texto": "OBMU",
+      "concluido": false
+    },
+    {
+      "texto": "AI and ML courses",
+      "concluido": false
+    }
+  ]
+}
